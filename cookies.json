@@ -1,1 +1,13 @@
-#Your Json Formated Cookies Here
+‎{
+‎  "cookies": [
+‎    {
+‎      "name": "XSRF-TOKEN",
+‎      "value": "eyJpdiI6InBTL1ZOcklOaWZBVEJuZ20xSUFMZHc9PSIsInZhbHVlIjoiWkxSU1Y5MXdTem1QR2MvaTNqVlZyNFVpeUduRTVFNEFCbEx2ckZGK0RxTTNONmVDUEt3T09McCtETTJkRTlieTR5Qk5hTU1kQS9VTmJGL3hIemJYNDUzek1NelFZSjRoREJ5K2Z2T3EyUmRHTzU5ZW5WcGhNT3Y2WkFlVWJyOUUiLCJtYWMiOiI2ZjJjYzM2OGVmOWM2MmIxOTI5ZWQzMzMyZTg5ODg4MDZiZGRkMzZlZWIxNjdhZmJkODRlNjVmMjhlZmViMmYxIiwidGFnIjoiIn0%3D"
+‎    },
+‎    {
+‎      "name": "ivasms_session",
+‎      "value": "eyJpdiI6IjVPazB5NEp3QXIvY21YM25OMk80Nnc9PSIsInZhbHVlIjoiM3htaE9DNG1aRXd2Yml5SVB1cVNxTmtnRWt3OG12dThqZWU4ZHZiSmlHcEJqVTIxTzRydlZSMzdBMzhyOVRFTU5Qa2ZLazhRaEo0cTFkcUJwdGM2SEJ4N2hDTDB3QThCaDNzYWdtK0RiV2tmcDVSUWUvQTMzWXEzK3pORnBmQXoiLCJtYWMiOiJhOWZiZGM1ZDM4ZDk0OWZiMzhiMTdmNzUyYmY1N2ExNDc0OGU5MTgxMDhjZWM3NjRkMzk2MWVjNTZmZWU0Y2YzIiwidGFnIjoiIn0%3D"
+‎    }
+‎  ]
+‎}
+‎
