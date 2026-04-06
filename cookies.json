@@ -1,13 +1,32 @@
-‎{
-‎  "cookies": [
-‎    {
-‎      "name": "XSRF-TOKEN",
-‎      "value": "eyJpdiI6InBTL1ZOcklOaWZBVEJuZ20xSUFMZHc9PSIsInZhbHVlIjoiWkxSU1Y5MXdTem1QR2MvaTNqVlZyNFVpeUduRTVFNEFCbEx2ckZGK0RxTTNONmVDUEt3T09McCtETTJkRTlieTR5Qk5hTU1kQS9VTmJGL3hIemJYNDUzek1NelFZSjRoREJ5K2Z2T3EyUmRHTzU5ZW5WcGhNT3Y2WkFlVWJyOUUiLCJtYWMiOiI2ZjJjYzM2OGVmOWM2MmIxOTI5ZWQzMzMyZTg5ODg4MDZiZGRkMzZlZWIxNjdhZmJkODRlNjVmMjhlZmViMmYxIiwidGFnIjoiIn0%3D"
-‎    },
-‎    {
-‎      "name": "ivasms_session",
-‎      "value": "eyJpdiI6IjVPazB5NEp3QXIvY21YM25OMk80Nnc9PSIsInZhbHVlIjoiM3htaE9DNG1aRXd2Yml5SVB1cVNxTmtnRWt3OG12dThqZWU4ZHZiSmlHcEJqVTIxTzRydlZSMzdBMzhyOVRFTU5Qa2ZLazhRaEo0cTFkcUJwdGM2SEJ4N2hDTDB3QThCaDNzYWdtK0RiV2tmcDVSUWUvQTMzWXEzK3pORnBmQXoiLCJtYWMiOiJhOWZiZGM1ZDM4ZDk0OWZiMzhiMTdmNzUyYmY1N2ExNDc0OGU5MTgxMDhjZWM3NjRkMzk2MWVjNTZmZWU0Y2YzIiwidGFnIjoiIn0%3D"
-‎    }
-‎  ]
-‎}
-‎
+[
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6IlkrVEpNa2FXTk5ZRnIzTVJoTEdtYlE9PSIsInZhbHVlIjoiNm4wZkh1MERWem9uVFpoQTR4Y0FYMS84blAxbTIyUTNDWFlYZkZHVTBSQXVaOXFlaGVRYU9udG5ScEI3c1ZEN2VBWS9wcktEdjFCc3FEMG0zQjFHVFg5cm5xUWxRTStvdFpNUUttNXRQRHRMMDI3WWJUOTN1OE5HYmJ5UFgyQXAiLCJtYWMiOiIzNGVkNDI2NTM1ZGZlYjJjZDg2NjYyNTY4MzY0MzczZTBkYTVmMDIxMzUzNjZkNGM5YjNhYTQ0OGNhMjJmZjZkIiwidGFnIjoiIn0%3D",
+        "domain": "www.ivasms.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1775248953,
+        "storeId": null
+    },
+    {
+        "name": "ivas_sms_session",
+        "value": "eyJpdiI6IlJjVFpjL1dBRnVvT3hpcVE3L0p4Z2c9PSIsInZhbHVlIjoiOXVWdjQ5TmdBTFNqa2F5dE5lakR3UnloNDRZY2VUSjVReUNoMWE3WTQ1aGdRaVZVWnYvWWx1S0FqZHROQ1EzQk95N0hPdHRRS2tzbjI1VGFNQXZ2bEhldE91OTdtc1YySm5XUk9QMlcrWHQ1OEwybVVkeUFScVFiMmlEY2w1TUgiLCJtYWMiOiI2NTUzYzMxZGU5ODRmYTFjYTU3MDczYzNmY2JhNmQ2YjEyYTgxNGY4ZGI3YzVlZTBjYTQ4YWIwMzFhNzRhM2MwIiwidGFnIjoiIn0%3D",
+        "domain": "www.ivasms.com",
+        "hostOnly": true,
+        "path": "/",
+        "secure": false,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1775248953,
+        "storeId": null
+    }
+]
